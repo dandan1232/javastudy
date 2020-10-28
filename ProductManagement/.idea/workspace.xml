@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9194b9e4-1c3f-41b5-af58-4969e3925271" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c6VxdJwJbgnVTBkQgs96W9vyPO" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javastudy\ProductManagement\src\threaddemo" />
+      <recent name="D:\javastudy\ProductManagement" />
+      <recent name="D:\javastudy\ProductManagement\src\gui" />
+      <recent name="D:\javastudy\ProductManagement\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TsetRunnable">
+    <configuration name="Demo03_Runnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threaddemo.Demo03_Runnable" />
+      <module name="ProductManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threaddemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ext01_ScrollTableFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.Ext01_ScrollTableFrame" />
+      <module name="ProductManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.ProductFrame" />
+      <module name="ProductManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentLoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.StudentLoginFrame" />
+      <module name="ProductManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TsetRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threaddemo.TsetRunnable" />
+      <module name="ProductManagement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threaddemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TsetRunnable" />
+        <item itemvalue="Application.Demo03_Runnable" />
+        <item itemvalue="Application.Ext01_ScrollTableFrame" />
+        <item itemvalue="Application.StudentLoginFrame" />
+        <item itemvalue="Application.ProductFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9194b9e4-1c3f-41b5-af58-4969e3925271" name="Default Changelist" comment="" />
+      <created>1589849277460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589849277460</updated>
+      <workItem from="1589849284003" duration="15997000" />
+      <workItem from="1589973773867" duration="227000" />
+      <workItem from="1590105969150" duration="18924000" />
+      <workItem from="1590232156883" duration="40000" />
+      <workItem from="1590232906403" duration="569000" />
+      <workItem from="1590309319548" duration="1329000" />
+      <workItem from="1590451654974" duration="9284000" />
+      <workItem from="1590903013367" duration="14005000" />
+      <workItem from="1590921737753" duration="2154000" />
+      <workItem from="1591574708063" duration="834000" />
+      <workItem from="1591578157534" duration="8973000" />
+      <workItem from="1591660538843" duration="6597000" />
+      <workItem from="1591681602373" duration="2633000" />
+      <workItem from="1591769924845" duration="2671000" />
+      <workItem from="1591833229959" duration="5470000" />
+      <workItem from="1591889792516" duration="18000" />
+      <workItem from="1592183497411" duration="608000" />
+      <workItem from="1592204506628" duration="604000" />
+      <workItem from="1592444407192" duration="2192000" />
+      <workItem from="1592473389059" duration="1442000" />
+      <workItem from="1593692420138" duration="4644000" />
+      <workItem from="1594907604615" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

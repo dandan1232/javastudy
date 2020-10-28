@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="sample2.CardController"
+            fx:id="mainContainer">
+<top>
+        <HBox spacing="50">
+              <Button text="卡片1" onAction="#showCardOne"/>
+              <Button text="卡片2" onAction="#showCardTwo"/>
+    <padding>
+            <Insets top="20" left="400"/>
+    </padding>
+        </HBox>
+    </top>
+    <center>
+    </center>
+</BorderPane>

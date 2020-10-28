@@ -1,0 +1,5 @@
+#ldd modified
+#Fri Apr 17 11:07:29 CST 2020
+user=wangermazi
+password=123
+alias=wanger

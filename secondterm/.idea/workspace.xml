@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6fff390-d3f9-4bec-acd5-df9ec14855a0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Unnamed">
+      <favorite_root url="file://$PROJECT_DIR$/Reference .properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yrvo1Kb7TEMXe51Xg2hoYNDRJW" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProductManagement" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="iodemo" />
+      <recent name="swingdemo" />
+      <recent name="collections" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javastudy\secondterm" />
+      <recent name="D:\javastudy\secondterm\src\swingdemo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.test5">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abnormal.Circle" />
+      <module name="secondterm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abnormal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exer02_FrameCaculator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swingdemo.Exer02_FrameCaculator" />
+      <module name="secondterm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swingdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.StudentHashcode" />
+      <module name="secondterm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfac.TestPhone" />
+      <module name="secondterm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestShowPicture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfac.TestShowPicture" />
+      <module name="secondterm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abnormal.test5" />
+      <module name="secondterm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Abnormal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Exer02_FrameCaculator" />
+      <item itemvalue="Application.StudentHashcode" />
+      <item itemvalue="Application.TestPhone" />
+      <item itemvalue="Application.TestShowPicture" />
+      <item itemvalue="Application.test5" />
+      <item itemvalue="Application.Circle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.TestPhone" />
+        <item itemvalue="Application.TestShowPicture" />
+        <item itemvalue="Application.StudentHashcode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6fff390-d3f9-4bec-acd5-df9ec14855a0" name="Default Changelist" comment="" />
+      <created>1583713698372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583713698372</updated>
+      <workItem from="1583713705786" duration="22000" />
+      <workItem from="1583713995371" duration="1581000" />
+      <workItem from="1583902601301" duration="10351000" />
+      <workItem from="1583915075083" duration="226000" />
+      <workItem from="1584056699760" duration="5154000" />
+      <workItem from="1584173648551" duration="2640000" />
+      <workItem from="1584201610107" duration="3790000" />
+      <workItem from="1584206536091" duration="108000" />
+      <workItem from="1584247665617" duration="5842000" />
+      <workItem from="1584317002381" duration="23078000" />
+      <workItem from="1584415376041" duration="12515000" />
+      <workItem from="1584626467066" duration="4557000" />
+      <workItem from="1584662774209" duration="593000" />
+      <workItem from="1584771027644" duration="2186000" />
+      <workItem from="1584921725747" duration="27602000" />
+      <workItem from="1585218615612" duration="527000" />
+      <workItem from="1585220019370" duration="285000" />
+      <workItem from="1585268498701" duration="5335000" />
+      <workItem from="1585612852927" duration="18107000" />
+      <workItem from="1585872333967" duration="15407000" />
+      <workItem from="1585909433940" duration="3725000" />
+      <workItem from="1585976268833" duration="24137000" />
+      <workItem from="1586020760018" duration="116000" />
+      <workItem from="1586062168626" duration="771000" />
+      <workItem from="1586218298233" duration="11887000" />
+      <workItem from="1586271326677" duration="905000" />
+      <workItem from="1586328812317" duration="68000" />
+      <workItem from="1586476953303" duration="17268000" />
+      <workItem from="1586699659113" duration="155000" />
+      <workItem from="1586822688125" duration="10612000" />
+      <workItem from="1587081683668" duration="20504000" />
+      <workItem from="1587427697863" duration="4509000" />
+      <workItem from="1587433289985" duration="6908000" />
+      <workItem from="1587686524231" duration="14858000" />
+      <workItem from="1587735534871" duration="9919000" />
+      <workItem from="1587780588831" duration="4734000" />
+      <workItem from="1587798037504" duration="4411000" />
+      <workItem from="1588032410913" duration="30219000" />
+      <workItem from="1588090477612" duration="195000" />
+      <workItem from="1588311750492" duration="5170000" />
+      <workItem from="1588317150440" duration="1166000" />
+      <workItem from="1588318444228" duration="277000" />
+      <workItem from="1588318757341" duration="15116000" />
+      <workItem from="1588637198212" duration="11606000" />
+      <workItem from="1588896197396" duration="17204000" />
+      <workItem from="1589243917813" duration="2232000" />
+      <workItem from="1589246194912" duration="2273000" />
+      <workItem from="1589250314974" duration="15076000" />
+      <workItem from="1589339870419" duration="809000" />
+      <workItem from="1589501208049" duration="14613000" />
+      <workItem from="1589551955039" duration="2130000" />
+      <workItem from="1589623632287" duration="12474000" />
+      <workItem from="1589846674008" duration="1060000" />
+      <workItem from="1589851887820" duration="645000" />
+      <workItem from="1589862291915" duration="589000" />
+      <workItem from="1589868763269" duration="261000" />
+      <workItem from="1589872319462" duration="1451000" />
+      <workItem from="1590122310710" duration="887000" />
+      <workItem from="1591681795379" duration="1783000" />
+      <workItem from="1591685321428" duration="628000" />
+      <workItem from="1591769908676" duration="14000" />
+      <workItem from="1592183475618" duration="20000" />
+      <workItem from="1592188208584" duration="3745000" />
+      <workItem from="1593692302194" duration="10430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/secondterm$Demo12_FontSetMenu.ic" NAME="Demo12_FontSetMenu Coverage Results" MODIFIED="1588318150992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>swingdemo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
